@@ -1,5 +1,0 @@
-TODOL
-prevent webcrawlers making api calls
-make instructions
-make markers not disappear if google makes markers
-delete markers
